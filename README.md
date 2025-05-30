@@ -1,3 +1,9 @@
+Create a .env.local file in the root of the project and add your MongoDB connection string:
+```bash 
+# .env.local
+MONGODB_URI=your_mongodb_uri_here
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
